@@ -1,0 +1,5 @@
+1. What is a data scientist?
+
+  A data scientist is who anaylzes the data with math and statistical method and get the model for the data and make some conlusions for them to solve some real problem in the world.
+
+2. 
