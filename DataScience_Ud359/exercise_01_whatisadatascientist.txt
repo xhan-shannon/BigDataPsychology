@@ -2,4 +2,6 @@
 
   A data scientist is who anaylzes the data with math and statistical method and get the model for the data and make some conlusions for them to solve some real problem in the world.
 
-2. 
+2. Reference
+   http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram
+   
